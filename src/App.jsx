@@ -16,7 +16,7 @@ function App() {
           </button>
           
             Inicio de Pasantía
-          
+          <h2>Integración contínua y despliegue contínuo</h2>
         </p>
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
